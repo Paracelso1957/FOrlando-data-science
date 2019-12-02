@@ -1,3 +1,4 @@
 # FOrlando-data-science
-## Pagina di prova
+## Informazioni
+In questo repository sono raccolti alcuni test.
 
