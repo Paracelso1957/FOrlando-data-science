@@ -13,3 +13,23 @@ _Prova_
 ~~Prova~~
 
 >Questa è una citazione
+
+1. Lista
+2. Lista
+
+- Lista
+- Lista
+
+* Lista
+* Lista
+
++ Lista
++ Lista
+
+[ ] Test
+
+[X] Test
+
+[ ] Test
+
+`Codice`
